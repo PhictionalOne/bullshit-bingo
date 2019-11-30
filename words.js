@@ -1,38 +1,42 @@
 const words = `
 
-
-Game changer
+usability
+storage management
+power sax
+depletion
+bleeding edge
+IoT
+dependency
+agile
+design-thinking
+use-case
+Synergie
+T-shaped
+flache hierarchie
+cross-functional
+whiteboard
+proactive
+24/7
 Disruptive technology
-Bilateral
-Bandwidth
 Transparency
 Strategic fit
 Core competencies
-Out of the box
-Bottom line
-Revisit
-Take that off-line
-24/7
-Out of the loop
-Benchmark
-Value-added
-Thought leader
-Proactive
 Win-win
-Fast track
 Result-driven
 Empower (or empowerment)
-Knowledge base
-At the end of the day
-Touch base
 Mindset
+Kreativität
+work-life balance
+cyber (extra bingo)
+lean
+sequentiell
+whiteboard
 Client focus(ed)
-Ballpark
-Game plan
-Leverage
 Cascade
-Sequential or sequentially
-Multiple times
-
+scrum
+Thought leader
+ibm
+smart
+Kooperation
 
 `;
