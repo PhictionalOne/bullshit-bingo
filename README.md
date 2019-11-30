@@ -22,7 +22,7 @@ Print it or play it on your laptop. Have fun! :wink:
 * words:	(default) Consisting of universal IT Buzzwords
 * studientag:	lumped together for the Studientag WS19/20
 
-For further sets/topic request @phi
+For further sets/topic request @phi or add them yourself **[here](new-set.php)**
 
 > Play it online **[here for pre-Fork](https://cdn.rawgit.com/domahidizoltan/bullshit-bingo/rawgit/index.html)** with the built-in content.
 > Play it online **[here for FSI-Version](https://teri.fsi.uni-tuebingen.de/~gilgamensch/bullshit-bingo)** with the standart `words.js`.
