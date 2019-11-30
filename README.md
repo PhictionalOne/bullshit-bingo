@@ -3,7 +3,7 @@
 This is an offline copy of the Bullshit Bingo game from the [Bullshit Bingo site](https://www.bullshitbingo.net/). Modified by Phi of the FSI to meet the Fachschafts-Needs.
 
 ~~Replace the words in the `words.js` file with your own ones. Keep the first and last line!~~
-Create ``<topic>.js` files containing the words you want to bingo to. Place them into the same directory as the `index.php`.
+Create ``<topic>.js` files containing the words you want to bingo to. Place them into the sub-directory `sets/`.
 
 Those files should look like this:
 ```
