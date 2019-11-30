@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Studientag Bingo</title>
+    <title>Bullshit Bingo</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <link rel="stylesheet" type="text/css" href="files/style.css">
     <script async defer src="https://buttons.github.io/buttons.js"></script>
@@ -36,7 +36,7 @@
         <tr>
           <td title="Click to mark cell" id="cell10"></td>
           <td title="Click to mark cell" id="cell11"></td>
-          <td class="freecell">JOKER<br>(free&nbsp;square)<br>Beliebige Frage, die in den FAQ steht</td>
+          <td class="freecell">JOKER<br>(free&nbsp;square)</td>
           <td title="Click to mark cell" id="cell12"></td>
           <td title="Click to mark cell" id="cell13"></td>
         </tr>
@@ -56,4 +56,5 @@
         </tr>
     </tbody></table>
 <a class="github-button" href="https://github.com/PhictionalOne/bullshit-bingo/fork" data-size="large" data-show-count="true" aria-label="Fork PhictionalOne/bullshit-bingo on GitHub">Fork this on GitHub</a>
+<a href="new-set.php">Neues Set erstellen (unfertig)</a>
 </body></html>
