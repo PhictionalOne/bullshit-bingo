@@ -4,6 +4,7 @@
     <title>Studientag Bingo</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <link rel="stylesheet" type="text/css" href="files/style.css">
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
     <script type="text/javascript" src="files/game.js"></script>
     <?php
 	if (isset($_GET["set"])) {
@@ -54,4 +55,5 @@
           <td title="Click to mark cell" id="cell23"></td>
         </tr>
     </tbody></table>
+<a class="github-button" href="https://github.com/PhictionalOne/bullshit-bingo/fork" data-size="large" data-show-count="true" aria-label="Fork PhictionalOne/bullshit-bingo on GitHub">Fork this on GitHub</a>
 </body></html>
