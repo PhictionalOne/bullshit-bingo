@@ -4,8 +4,11 @@ function loadWords() {
 	var bullshits = words.split("\n")
 						 .filter(word => word.length > 0)
 						 .map(word => word.trim());
-	
+
+  // TODO cookie/persistence between sessions
+
 	var randomizedWords = randomize(bullshits);
+
 	var counter=0;
 	while (counter<cells) {
 		document.getElementById('cell' + counter++).innerHTML = randomizedWords.pop();
@@ -15,7 +18,7 @@ function loadWords() {
 function randomize(words) {
 	var randomizedWords = [];
 	var tempWords = words.slice();
-	
+
 	for (var i=0; i<cells; i++) {
 		var wordCount = tempWords.length;
 		var randomIndex = Math.floor(Math.random() * wordCount);
