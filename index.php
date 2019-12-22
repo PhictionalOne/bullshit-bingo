@@ -11,12 +11,12 @@
 		$file = $_GET["set"];
 	} else {
 		$file = "words";
-	}
+	} 
 	echo "<script type=\"text/javascript\" src=\"sets/" .$file. ".js\"></script>"
     ?>
     <script type="text/javascript" src="files/content.js"></script>
   </head>
-  <body onload="loadWords()"> 
+  <body onload="loadWords()">
     <table class="card" id="card0" border="1" cellspacing="0">
       <tbody>
         <tr>
