@@ -23,4 +23,9 @@ Tobi kommt rein und macht Wasser heiß
 Pärchen X macht rum
 Äkelerregend
 "Macht mal das Fenster auf"
+Falsch aussgesprochenes Englisch
+Mikrowelle/Ofen muss gereinigt werden
+Drucker druckt aus dem nichts
+Jemand verpasst einer anderen Person einen Ohrwurm
+Technopause
 `;

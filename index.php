@@ -56,5 +56,6 @@
         </tr>
     </tbody></table>
 <a class="github-button" href="https://github.com/PhictionalOne/bullshit-bingo/fork" data-size="large" data-show-count="true" aria-label="Fork PhictionalOne/bullshit-bingo on GitHub">Fork this on GitHub</a>
-<a href="new-set.php">Neues Set erstellen (unfertig)</a>
+<!--<a href="new-set.php">Neues Set erstellen (unfertig)</a>-->
+<a href="https://pad.fsi.uni-tuebingen.de/fsi-bb">Für set=fsi Pad</a>
 </body></html>
